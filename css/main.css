@@ -14,12 +14,11 @@ body * {
     .dujine > .skyles {
         display: inline-block;
         width: 200px;
-        height: 200px;
     }
         .dujine > .skyles > .skyle {
             display: inline-block;
-            width: 50%;
-            height: 50%;
+            width: 100px;
+            height: 100px;
             float: left;
             background-color: #ccc;
             border-radius: 50%;
